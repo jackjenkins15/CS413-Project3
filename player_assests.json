@@ -1,0 +1,102 @@
+{"frames": {
+
+"jackchar1.png":
+{
+	"frame": {"x":1,"y":109,"w":15,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":34},
+	"sourceSize": {"w":16,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"jackchar10.png":
+{
+	"frame": {"x":19,"y":1,"w":12,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":12,"h":34},
+	"sourceSize": {"w":16,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"jackchar2.png":
+{
+	"frame": {"x":1,"y":145,"w":15,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":34},
+	"sourceSize": {"w":16,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"jackchar3.png":
+{
+	"frame": {"x":1,"y":181,"w":15,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":15,"h":34},
+	"sourceSize": {"w":16,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"jackchar4.png":
+{
+	"frame": {"x":1,"y":1,"w":16,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":34},
+	"sourceSize": {"w":16,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"jackchar5.png":
+{
+	"frame": {"x":1,"y":37,"w":16,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":34},
+	"sourceSize": {"w":16,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"jackchar6.png":
+{
+	"frame": {"x":1,"y":73,"w":16,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":34},
+	"sourceSize": {"w":16,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"jackchar7.png":
+{
+	"frame": {"x":19,"y":37,"w":12,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":12,"h":34},
+	"sourceSize": {"w":16,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"jackchar8.png":
+{
+	"frame": {"x":19,"y":73,"w":12,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":12,"h":34},
+	"sourceSize": {"w":16,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"jackchar9.png":
+{
+	"frame": {"x":18,"y":109,"w":13,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":13,"h":34},
+	"sourceSize": {"w":16,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "player_assests.png",
+	"format": "RGBA8888",
+	"size": {"w":32,"h":216},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fbc9d87d5bb625c83396ab7f342cca0e:ae3284c936911cd6cd56f86a5359d0f0:2ca94d415b8152b11ccc28cbeff923ed$"
+}
+}
